@@ -50,7 +50,7 @@ namespace g4
         public bool Find()
         {
             if (Result != IntersectionResult.NotComputed)
-                return (Result != g3.IntersectionResult.NoIntersection);
+                return (Result != g4.IntersectionResult.NoIntersection);
 
             // Compute the offset origin, edges, and normal.
             Vector3d diff = ray.Origin - triangle.V0;

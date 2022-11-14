@@ -59,7 +59,7 @@ namespace g4
         public bool Find()
         {
             if (Result != IntersectionResult.NotComputed)
-                return (Result != g3.IntersectionResult.NoIntersection);
+                return (Result != g4.IntersectionResult.NoIntersection);
 
 
             // in this code the results get initialized in subroutines, so we

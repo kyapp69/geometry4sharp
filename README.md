@@ -39,7 +39,7 @@ The **MeshSignedDistanceGrid** class was implemented based on the C++ [SDFGen](h
 - **SmallListSet**: efficient allocation of a large number of small lists, with initial fixed-size buffer and "spilling" into linked list.
 - **BufferUtil**: utilities for working with arrays. Math on float/double arrays, automatic conversions, byte[] conversions, compression
 - **FileSystemUtils**: utilities for filesystem stuff
-- *g3Iterators*: IEnumerable utils **ConstantItr**, **RemapItr**, IList hacks **MappedList**, **IntSequence**
+- *g4Iterators*: IEnumerable utils **ConstantItr**, **RemapItr**, IList hacks **MappedList**, **IntSequence**
 - **HashUtil**: **HashBuilder** util for constructing FNV hashes of g3 types
 - **MemoryPool**: basic object pool
 - *ProfileUtil*: code profiling utility **LocalProfiler** supports multiple timers, accumulating, etc
@@ -342,7 +342,7 @@ The **MeshSignedDistanceGrid** class was implemented based on the C++ [SDFGen](h
     - currently **cannot** produce meshes with multiple UVs per vertex (not supported in DMesh3), vertices will be duplicated along UV seams
 - **STLReader/Writer**: STL format, basic vertex welding to reconstruct topology
 - **OFFReader/Writer**: OFF file format
-- **gSerialization**: binary Store/Restore functions for many g3 types / data structures
+- **gSerialization**: binary Store/Restore functions for many g4 types / data structures
 - **SVGWriter**: write 2D geometric elements in svg format
 
 

@@ -56,7 +56,7 @@ namespace g4
 
         static public IOWriteResult WriteMeshes(string sFilename, List<DMesh3> vMeshes, WriteOptions options)
         {
-            List<WriteMesh> meshes = new List<g3.WriteMesh>();
+            List<WriteMesh> meshes = new List<g4.WriteMesh>();
             foreach (var m in vMeshes)
                 meshes.Add(new WriteMesh(m));
             StandardMeshWriter writer = new StandardMeshWriter();
