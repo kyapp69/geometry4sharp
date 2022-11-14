@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geometry4Sharp", "geometry4Sharp.csproj", "{ECE4866B-A132-4B9C-A986-B1E0CA49227C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE4866B-A132-4B9C-A986-B1E0CA49227C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE4866B-A132-4B9C-A986-B1E0CA49227C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE4866B-A132-4B9C-A986-B1E0CA49227C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE4866B-A132-4B9C-A986-B1E0CA49227C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F63D3B-7517-4690-B71F-40467829B7C9}
+	EndGlobalSection
+EndGlobal

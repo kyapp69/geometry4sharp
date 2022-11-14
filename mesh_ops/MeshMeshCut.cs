@@ -583,7 +583,7 @@ namespace g4
             if (get_parent(et.a) != get_parent(et.b))
                 return false;
             // TODO need to check if we need to save edge AB to connect vertices!
-            throw new Exception("not done yet!");
+            //throw new Exception("not done yet!");
             return true;
         }
 
