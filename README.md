@@ -1,44 +1,22 @@
-# geometry3Sharp
+# geometry4Sharp
 
 Open-Source (Boost-license) C# library for geometric computing. 
 
-geometry3Sharp is compatible with Unity. Set the G3_USING_UNITY Scripting Define and you will have transparent interop between g3 and Unity vector types (*see details at the very bottom of this README*). Although the library is written for C# 4.5, if you are using the .NET 3.5 Unity runtime, it will still work, just with a few missing features.
+geometry4Sharp is a fork of geometry3sharp
 
-Currently there is a small amount of unsafe code, however this code is only used in a few fast-buffer-copy routines, which can be deleted if you need a safe version (eg for Unity web player).
 
-[A Nuget Package is available](https://www.nuget.org/packages/geometry3Sharp). This package is updated roughly monthly from the github master branch. So, it's "more" stable. Currently this package includes .NET 4.5 and .NET Standard 2.0 dlls. If you would like others, please email and they can be added.
+[A Nuget Package is not aviable yet] . This package will be updated from the main branch.
 
-Questions? Contact Ryan Schmidt [@rms80](http://www.twitter.com/rms80) / [gradientspace](http://www.gradientspace.com)
-
-# Projects using g3Sharp
-
-* [Gradientspace Cotangent](https://www.cotangent.io/) - 3D printing and Mesh Repair/Modeling Tool
-* [Nia Technologies NiaFit](https://niatech.org/technology/niafit/) - 3D-printed prosthetic and orthotic design
-* [OrthoVR Project](https://orthovrproject.org/) - 3D-printed lower-leg prosthetic design in VR
-* [Archform](https://www.archform.co/) - Clear Dental Aligner design/planning app
-* [Your Project Here?](rms@gradientspace.com) - *we are very excited to hear about your project!*
+Questions? Contact New Wheel Techology [@NewWheelTech](https://twitter.com/NewWheelTech)) 
 
 
 # Credits
 
+Ryan Schmidt for the orginal geometry3sharp [@rms80](http://www.twitter.com/rms80)
+
 Many, many data structures and algorithms have been ported from the WildMagic5 and GTEngine C++ libraries, which are developed by David Eberly at [Geometric Tools](https://www.geometrictools.com/). WildMagic5 and GTEngine are distributed under the Boost license as well, available [here](https://www.geometrictools.com/Downloads/Downloads.html). Any errors in code marked as ported from WildMagic5/GTEngine are most certainly ours!
 
 The **MeshSignedDistanceGrid** class was implemented based on the C++ [SDFGen](https://github.com/christopherbatty/SDFGen) code written by [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/) and [Robert Bridson](http://www.cs.ubc.ca/~rbridson/). 
-
-
-
-# Tutorials
-
-Several tutorials for using g3Sharp have been posted on the Gradientspace blog:
-
-- [Creating meshes, Mesh File I/O, Ray/Mesh Intersection and Nearest-Point](http://www.gradientspace.com/tutorials/2017/7/20/basic-mesh-creation-with-g3sharp) - Explains DMesh3 basics, StandardMeshReader, DMeshAABBTree3 ray and point queries and custom traversals
-- [Mesh Simplification with Reducer class](http://www.gradientspace.com/tutorials/2017/8/30/mesh-simplification) - Reducer class, DMesh3.CheckValidity, MeshConstraints
-- [Remeshing and Mesh Constraints](http://www.gradientspace.com/tutorials/2018/7/5/remeshing-and-constraints) - Remesher class, projection targets, MeshConstraints, Unity remeshing animations
-- [Voxelization/Signed Distance Fields and Marching Cubes Remeshing](http://www.gradientspace.com/tutorials/2017/11/21/signed-distance-fields-tutorial) - MeshSignedDistanceGrid, MarchingCubes, DenseGridTrilinearImplicit, generating 3D lattices
-- [3D Bitmaps, Minecraft Cubes, and Mesh Winding Numbers](http://www.gradientspace.com/tutorials/2017/12/14/3d-bitmaps-and-minecraft-meshes) - Bitmap3, VoxelSurfaceGenerator, DMeshAABBTree3 Mesh Winding Number, 
-- [Implicit Surface Modeling](http://www.gradientspace.com/tutorials/2018/2/20/implicit-surface-modeling) - Implicit primitives, voxel/levelset/functional booleans, offsets, and blending, lattice/lightweighting demo
-- [DMesh3: A Dynamic Indexed Triangle Mesh](http://www.gradientspace.com/tutorials/dmesh3) - deep dive into the DMesh3 class's internal data structures and operations
-- [Surfacing Point Sets with Fast Winding Numbers](http://www.gradientspace.com/tutorials/2018/9/14/point-set-fast-winding) - tutorial on the Fast Mesh/PointSet Winding Number, and how to use the g3Sharp implementation
 
 
 # Main Classes
