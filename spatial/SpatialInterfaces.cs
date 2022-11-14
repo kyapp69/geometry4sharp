@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace g3
+namespace g4
 {
     // [TODO] this should be called IMeshSpatial? it is specific to triangles.
     public interface ISpatial

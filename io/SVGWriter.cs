@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Globalization;
 
-namespace g3
+namespace g4
 {
 	public class SVGWriter
 	{

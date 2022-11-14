@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace g3 
+namespace g4 
 {
 	public class GeneralPolygon2d : IDuplicatable<GeneralPolygon2d>
 	{

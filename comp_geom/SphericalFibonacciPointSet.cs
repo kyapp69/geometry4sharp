@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// A Spherical Fibonacci Point Set is a set of points that are roughly evenly distributed on
@@ -120,7 +120,8 @@ namespace g3
 
             // [TODO] should we be clamping this??
             return (int)j;
-        }
+        }
+
 
 
 

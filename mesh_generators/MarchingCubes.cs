@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using g3;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// Basic implementation of marching cubes mesh generation, which can be applied to

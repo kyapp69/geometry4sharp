@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace g3
+namespace g4
 {
 	// [TODO] some kind of spatial sorting!!
 	public class SegmentSet2d

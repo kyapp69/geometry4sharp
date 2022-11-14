@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// Extrude a subset of faces of Mesh. Steps are:

@@ -4,7 +4,7 @@ using System;
 using UnityEngine;
 #endif
 
-namespace g3
+namespace g4
 {
     public struct AxisAlignedBox2f
     {

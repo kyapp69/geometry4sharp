@@ -4,7 +4,7 @@ using System.Text;
 using System.Diagnostics;
 using g3;
 
-namespace g3
+namespace g4
 {
     public struct Frame3f
     {

@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Collections.Generic;
 using System.Text;
 
-namespace g3
+namespace g4
 {
     public struct Vector2d : IComparable<Vector2d>, IEquatable<Vector2d>
     {

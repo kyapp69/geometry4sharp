@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// 2D Bezier curve of arbitrary degree

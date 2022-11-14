@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace g3
+namespace g4
 {
     // ported from WildMagic5
     //

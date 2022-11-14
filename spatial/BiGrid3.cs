@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// BiGrid3 is a two-level multiresolution grid data structure. You provide

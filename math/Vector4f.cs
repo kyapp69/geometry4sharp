@@ -6,7 +6,7 @@ using System.Text;
 using UnityEngine;
 #endif
 
-namespace g3
+namespace g4
 {
     public struct Vector4f : IComparable<Vector4f>, IEquatable<Vector4f>
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// Construct hash of multiple values using FNV hash (ish)

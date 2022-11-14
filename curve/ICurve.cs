@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 
-namespace g3
+namespace g4
 {
 
 	public interface IParametricCurve3d

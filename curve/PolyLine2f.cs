@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 
-namespace g3
+namespace g4
 {
 	/// <summary>
 	/// Summary description for PolyLine.

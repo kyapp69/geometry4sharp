@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace g3
+namespace g4
 {
     // ported from WildMagic5 Ellipse2
     public class Ellipse2d : IParametricCurve2d

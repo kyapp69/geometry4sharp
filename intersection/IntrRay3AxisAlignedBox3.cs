@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace g3
+namespace g4
 {
 	// adapted from IntrRay3Box3
 	public class IntrRay3AxisAlignedBox3

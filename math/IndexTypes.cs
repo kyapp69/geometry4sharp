@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace g3
+namespace g4
 {
 
     public struct Index3i : IComparable<Index3i>, IEquatable<Index3i>

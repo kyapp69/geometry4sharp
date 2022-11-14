@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// 3D integer vector type. This is basically the same as Index3i but

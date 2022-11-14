@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace g3
+namespace g4
 {
 	/// <summary>
 	/// gradientspace OBJ writer

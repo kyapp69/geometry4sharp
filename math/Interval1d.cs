@@ -1,6 +1,6 @@
 using System;
 
-namespace g3
+namespace g4
 {
 	// interval [a,b] on Real line. 
 	//   TODO: should check that a <= b !!

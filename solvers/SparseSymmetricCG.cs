@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace g3
+namespace g4
 {
     // ported from WildMagic5 Wm5LinearSystem.cpp
     public class SparseSymmetricCG

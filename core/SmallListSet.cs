@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// SmallListSet stores a set of short integer-valued variable-size lists.

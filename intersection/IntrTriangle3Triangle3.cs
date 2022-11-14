@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace g3
+namespace g4
 {
     // ported from WildMagic5 IntrTriangle3Triangle3
     // use Test() for fast boolean query, does not compute intersection info

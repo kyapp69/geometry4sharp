@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// Insert Polygon into Mesh. Assumption is that Mesh has 3D coordinates (u,v,0).

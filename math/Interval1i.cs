@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace g3
+namespace g4
 {
 	// Interval [a,b] over Integers
     // Note that Interval1i has an enumerator, so you can directly

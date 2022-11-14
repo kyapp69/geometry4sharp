@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// interface that provides a cancel function

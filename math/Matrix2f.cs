@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace g3
+namespace g4
 {
     // some functions ported from WildMagic5 Matrix2
     public class Matrix2f

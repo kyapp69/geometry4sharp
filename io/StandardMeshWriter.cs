@@ -4,7 +4,7 @@ using System.IO;
 using System.Threading;
 using System.Globalization;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// Writes various mesh file formats. Format is determined from extension. Currently supports:

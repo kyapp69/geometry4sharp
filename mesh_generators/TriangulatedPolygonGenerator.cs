@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace g3
+namespace g4
 {
     /// <summary>
     /// Triangulate a 2D polygon-with-holes by inserting it's edges into a meshed rectangle
