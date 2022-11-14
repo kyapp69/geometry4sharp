@@ -7,12 +7,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("geometry3Sharp")]
+[assembly: AssemblyTitle("geometry4Sharp")]
 [assembly: AssemblyDescription("C# library for 3D geometric computation, mesh algorithms, etc.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ryan Schmidt/gradientspace")]
-[assembly: AssemblyProduct("geometry3Sharp")]
-[assembly: AssemblyCopyright("Copyright © Ryan Schmidt/gradientspace  2016")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("geometry4Sharp")]
+[assembly: AssemblyCopyright("Copyright © Ryan Schmidt/gradientspace  2016 Copyright © TODO 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -22,7 +22,8 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0c518dda-28fe-44ca-9ab0-f9773974f13a")]
+[assembly: Guid("ECE4866B-A132-4B9C-A986-B1E0CA49227C")]
+
 
 // Version information for an assembly consists of the following four values:
 //
