@@ -1,4 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
+  <license type="expression">BSL-1.0</license>
   <PropertyGroup>
     <Version>1.0.0.0</Version>
     <Title>geometry4Sharp</Title>
@@ -6,7 +7,7 @@
     <Company></Company>
     <Description>C# library for 2D/3D geometric computing and triangle mesh processing forked from Geometry3Sharp</Description>
     <Copyright>Copyright © Ryan Schmidt 2016 / Copyright © TODO 2022</Copyright>
-    <PackageLicenseExpression>BSL-1.0</PackageLicenseExpression>
+    
     <PackageProjectUrl>https://github.com/NewWheelTech/geometry4Sharp</PackageProjectUrl>
     <PackageTags>geometry3;graphics;math;approximation;solvers;color;convexhull;meshes;spatial;curves;solids;3d;unity</PackageTags>
     <RepositoryUrl>https://github.com/NewWheelTech/geometry4Sharp</RepositoryUrl>

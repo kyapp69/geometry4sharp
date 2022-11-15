@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>g4</RootNamespace>
-    <AssemblyName>geometry4</AssemblyName>
+    <AssemblyName>geometry4sharp</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -33,6 +33,8 @@
     <WarningLevel>4</WarningLevel>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisIgnoreGeneratedCode>false</CodeAnalysisIgnoreGeneratedCode>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -70,6 +72,7 @@
     <Compile Include="core\Indexing.cs" />
     <Compile Include="core\DynamicPriorityQueue.cs" />
     <Compile Include="core\IndexPriorityQueue.cs" />
+    <Compile Include="core\BasicMeshUtil.cs" />
     <Compile Include="core\ProfileUtil.cs" />
     <Compile Include="core\RefCountVector.cs" />
     <Compile Include="core\SafeCollections.cs" />

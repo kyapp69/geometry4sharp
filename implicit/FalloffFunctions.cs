@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using g4;
 
-namespace gs
+namespace g4
 {
     public interface IFalloffFunction
     {

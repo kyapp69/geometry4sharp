@@ -7,7 +7,7 @@ using System.Text;
 
 using g4;
 
-namespace gs
+namespace g4
 {
     /// <summary>
     /// For use case where we are making local edits to a source mesh. We mask out
