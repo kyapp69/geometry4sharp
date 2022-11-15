@@ -7,6 +7,7 @@ build_job:
   stage: build
   script:
     - 'dotnet build geometry4Sharp_netstandard.csproj -c Release'
+    - 'dotnet pack geometry4Sharp_netstandard.csproj -c Release'
   artifacts:
       paths:
         - bin/
